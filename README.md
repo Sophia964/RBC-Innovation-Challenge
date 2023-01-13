@@ -54,7 +54,40 @@ Elva Wu is responsible for investigating and predicting the possible impact of C
 Part 7: Technical Demo: The APP - Carbinity
 
 
-① Main pages introduction
+①	The main purpose of the software
+
+Users can use the software to check the distance they walk every month, the number of points they have earned, and use their points to exchange for ticket of public transportation; Users can add their friends and see the number of steps taken each day through the leaderboard.
+Users can also see a statistical graph of their steps, such as how many steps they walk in total for each month, and how many their steps compared to all users. In addition, users can look up the map of their city to find the nearest subway station, or the subway station and map near their destination.
+
+② Main pages introduction
+
+Loading interface: Use a green font to display the name of the software, emphasizing the theme of environmental protection of the software; And the subway background image is used to highlight the main intent of the software.
+![登录界面](https://user-images.githubusercontent.com/122585644/212417633-3798c93d-bd62-46cb-bb68-30e48b754ef5.png)
 
 
-② Video demonstration
+
+Home Page: At the top of the home page, the user can see the number of steps taken monthly. There are several button options below, respectively, change for points and tickets interface, friend (moments) interface, map interface and personal information interface. Click to enter different interfaces.
+ ![主页面](https://user-images.githubusercontent.com/122585644/212417648-0a345ab0-7d62-41ad-8594-100f87377f36.png)
+
+
+Change for points and tickets: In this interface, users can see their current points, enter the number of points they want to exchange, and exchange the corresponding number of subway tickets. At the bottom, the rules for redemption of points are shown.
+ ![换积分](https://user-images.githubusercontent.com/122585644/212417697-7d5f7317-f927-4afc-a6fe-d3f528c028ca.png)
+
+
+
+Friend : On the Friend interface, users can see a leaderboard that shows the number of steps taken by added friends in the month, in order from most to least. In addition, clicking the statistics button takes you to an accompanying page with three charts: they show the percentage of the friends that walking fewer than the user in that month, how many users in that month walked fewer than the user’s steps, the change in the number of steps they have taken per month, and the change in the average number of steps taken by all users per month.
+![朋友圈_状态 1](https://user-images.githubusercontent.com/122585644/212417575-404e9009-2563-4f1d-9e90-09058c970899.png)
+![数据统计](https://user-images.githubusercontent.com/122585644/212417736-dae662b7-765d-4fcc-8184-7f7712d97faa.png)
+
+
+
+Map: In the map interface, users can find their own city, the nearest subway station, or the destination subway station and the surrounding map. Or they want to inquire about the subway or map of the city related information.
+![地图](https://user-images.githubusercontent.com/122585644/212417773-9a792e0b-0e46-480e-9060-4541d7089bb6.png)
+
+Personal information: In the profile interface, users can modify their profile picture, personal information, and privacy Settings.
+![个人主页](https://user-images.githubusercontent.com/122585644/212417788-1be64965-3067-4bad-97d4-30e4f9fb0a00.png)
+
+ 
+ 
+ 
+③	 Video demonstration
